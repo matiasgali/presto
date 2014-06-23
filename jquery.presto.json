@@ -1,0 +1,26 @@
+{
+  "name": "presto",
+  "version": "1.0.0.alpha",
+  "title": "And... Presto! Image previews! (jQuery Presto plugin)",
+  "description": "Display image previews from file inputs before submitting (virtually on any browser using fallbacks).",
+  "keywords": ["image", "preview", "file", "input", "magic"],
+  "author": { "name": "Matías Gagliano" },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    },
+    {
+      "type": "GPLv3",
+      "url": "http://opensource.org/licenses/GPL-3.0"
+    }
+  ],
+  "homepage": "https://github.com/matiasgagliano/presto",
+  "docs": "https://github.com/matiasgagliano/presto",
+  "bugs": "https://github.com/matiasgagliano/presto/issues",
+  "demo": "https://matiasgagliano.github.io/presto",
+  "dependencies": {
+    "jquery": ">=1.7",
+    "jquery.bifrost.js": ">=1.0.0.alpha"
+  }
+}
